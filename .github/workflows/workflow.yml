@@ -1,6 +1,6 @@
 # File: .github/workflows/workflow.yml
 
-on: [push]
+on: [push, workflow_dispatch]
 
 name: LoadTest-CLI-Example
 
